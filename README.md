@@ -5,7 +5,7 @@
 - 📫 How to reach me, FB: https://www.facebook.com/sultan.salehin.furqan 
                        Telegram: https://t.me/Salehin_221_CSE
                        Discord: 4メ・SALEHIN霊#7005(old)
-                                s-salehin
+                       New: s-salehin
 <!---
 S-Salehin/S-Salehin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
