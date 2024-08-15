@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @S-Salehin
-- 👀 I’m interested in hacking, robotics & gamming
-- 🌱 I’m currently learning web development and android app development
-- 💞️ I’m looking to collaborate on my research papers
-- 📫 How to reach me, FB: https://www.facebook.com/sultan.salehin.furqan 
+- 👀 I’m interested in Hacking, Robotics, Deep Learning & gamming. Love to do projects.
+- 🌱 I’m currently skilled in Cyber Security and Embedded Systems (CERTIFIED)
+- 💞️ I’m looking to collaborate on my research papers.
+- 📫 How to reach me, WhatsApp: +8801821999366
                        Telegram: https://t.me/Salehin_221_CSE
                        Discord: 4メ・SALEHIN霊#7005(old)
                        New: s-salehin
